@@ -18,7 +18,7 @@ Only assess applications, source code and environments that you own or have expl
 
 Application threat modelling is a structured process for understanding an application's architecture, identifying potential threats, assessing associated risks and determining appropriate security measures.
 
-This walkthrough follows the Four Question Framework:
+This walkthrough follows the Four Threat Modelling Question Framework:
 
 1. **What are we working on?**
 2. **What can go wrong?**
@@ -26,20 +26,6 @@ This walkthrough follows the Four Question Framework:
 4. **Did we do a good job?**
 
 The STRIDE methodology is used to identify and categorise potential threats.
-
-## What You Will Learn
-
-- Define an application's scope and security objectives.
-- Understand application architecture and data flows.
-- Identify assets, trust boundaries and entry points.
-- Create and interpret Data Flow Diagrams (DFDs).
-- Examine individual data flows and application components for potential threats.
-- Apply STRIDE to identify potential attack scenarios.
-- Assess and prioritise risks.
-- Recommend security mitigations.
-- Develop a security test plan.
-- Document findings and residual risks.
-
 ---
 
 ## Requirements
