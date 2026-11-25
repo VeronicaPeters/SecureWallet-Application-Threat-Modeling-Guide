@@ -290,7 +290,7 @@ See the [security test plan](04-security-validation/security-test-plan.md) and [
 
 ## Supporting Documentation
 
-The repository includes supporting documentation for the SecureWallet threat-modelling exercise:
+The repository includes supporting documentation for the SecureWallet threat-modelling exercise. These can serve as reusable templates:
 
 - [System Architecture](01-understanding-the-application/system-architecture.md)
 - [Data Flow Diagram Documentation](01-understanding-the-application/data-flow-diagram.md)
@@ -300,7 +300,6 @@ The repository includes supporting documentation for the SecureWallet threat-mod
 - [Security Test Plan](04-security-validation/security-test-plan.md)
 - [Security Assessment Report](04-security-validation/security-assessment-report.md)
 
-These can serve as reusable templates to perform the same process on an application of your choice:
 ---
 
 ## Companion Project: SecureWallet API
