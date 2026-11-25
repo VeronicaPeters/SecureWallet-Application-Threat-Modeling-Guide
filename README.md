@@ -1,4 +1,3 @@
-
 # SecureWallet: Practical Application Threat Modeling Walkthrough
 
 This repository demonstrates the threat-modelling process using SecureWallet, a simulated digital wallet application, as a practical case study. It also provides a repeatable walkthrough that you can apply to an application of your choice.
